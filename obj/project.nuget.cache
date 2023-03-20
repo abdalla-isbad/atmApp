@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eCyFu4Z19tpYNDvYJ16MqX1/P7yx5RHqJ5VJoXPT5XRNZzXZMZfl7rk+JqokFvISBXS3YdBlLj2FF5NNkSQ8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\born_\\source\\repos\\atmApp\\atmApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\born_\\.nuget\\packages\\controlzex\\5.0.2\\controlzex.5.0.2.nupkg.sha512",
+    "C:\\Users\\born_\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\born_\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
