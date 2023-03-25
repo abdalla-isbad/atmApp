@@ -14,8 +14,8 @@ namespace atmApp
     {
 
         private Account activeAccount = null;
-        private static int screen, pinAttempts = 0;
-        private static string pin, pinTochange, tempPin, customDeposit = null;
+        private int screen, pinAttempts = 0;
+        private string pin, pinTochange, tempPin, customDeposit = null;
         bool cPin, enteredFirst = false;
 
       
