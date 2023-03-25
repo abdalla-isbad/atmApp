@@ -30,6 +30,9 @@ namespace atmApp
         private void start() 
         {
             var atmForm = new Form1();
+
+            
+
             atmForm.ShowDialog();
         }
 
@@ -84,6 +87,22 @@ namespace atmApp
 
       
 
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Thread[] ATM = new Thread[2];
+
+
+
+            for (int i = 0; i < 2; i++)
+            {
+                ATM[i] = new Thread(() => start());
+                ATM[i].Start();
+            }
+
+            
 
         }
     }
